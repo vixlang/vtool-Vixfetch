@@ -26,7 +26,7 @@ git clone https://github.com/vixlang/vixfetch.git
 cd vixfetch
 
 # Compile vixfetch
-./vixc vixfetch.vix -o vixfetch
+vixc vixfetch.vix -o vixfetch
 
 # Run the program
 ./vixfetch
