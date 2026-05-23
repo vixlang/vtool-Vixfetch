@@ -56,7 +56,7 @@ vixfetch - Vix Language System Info
   ───────────────────────────────
 Language: Vix
 Compiler: vixc
-Architecture: x86_64 (native)
+Architecture: x86_64
 
 System Commands Output:
   ───────────────────────────────
