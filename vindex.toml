@@ -3,4 +3,5 @@ name = "Vixfetch"
 version = "v0.1.0"
 description = "Vix 项目管理与构建工具"
 readme = "README.md"
+enterpoint = "vixfetch.vix"
 deps = []
